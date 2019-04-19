@@ -15,7 +15,7 @@ public class Pt01 {
 
 			
 			
-			System.out.println("klnskdjfksjlkj");
+			System.out.println("");
 			
 			
 		}
